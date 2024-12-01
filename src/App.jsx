@@ -1,6 +1,6 @@
-import { Header } from './components/Header.jsx';
-import { SideNav } from './components/SideNav.jsx';
-import { PokeCard } from './components/PokeCard.jsx';
+import  Header  from './components/Header.jsx';
+import SideNav from './components/SideNav.jsx';
+import PokeCard  from './components/PokeCard.jsx';
 
 import { useState } from 'react';
 
